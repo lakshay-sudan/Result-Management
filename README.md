@@ -1,3 +1,3 @@
 # Result-Management
 Result management web app
-LAkshay and harsh
+LAkshay and harsh singh
